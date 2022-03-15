@@ -1,2 +1,1 @@
-# mergeandconflict-exercise
 REMOTE
